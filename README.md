@@ -33,3 +33,7 @@ If questions, please contact oliver.aasmets@ut.ee.
 
 
 
+[![DOI](https://zenodo.org/badge/436182709.svg)](https://zenodo.org/badge/latestdoi/436182709)
+
+
+
